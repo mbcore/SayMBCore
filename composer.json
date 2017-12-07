@@ -1,0 +1,19 @@
+{
+    "name": "mbcore/sayhello",
+    "description": "A Demo in MBCore Projects Composer Packagist.",
+    "type": "demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MBCore Jiefan",
+            "email": "i@mbcore.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MBCore\\": "src/"
+        }
+    }
+}
