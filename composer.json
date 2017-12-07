@@ -9,7 +9,7 @@
             "email": "i@mbcore.com"
         }
     ],
-    "minimum-stability": "stable", //dev
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
